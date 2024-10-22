@@ -1,6 +1,6 @@
 const MaintenancePage = () => {
   return (
-    <div className="flex items-center justify-center h-screen bg-gray-200">
+    <div className="flex items-center justify-center h-screen bg-gray-200 mt-8">
       <div className="bg-black shadow-lg rounded-lg p-10 text-center max-w-lg">
         <h1 className="text-4xl font-extrabold text-violet-500">
           Website Under Construction
